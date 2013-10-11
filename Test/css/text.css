@@ -1,0 +1,35 @@
+label
+{
+    float left;
+}
+#cadreformulaire
+{
+  margin:5% auto;
+  background-color: #f2f2f2;
+  border-radius: 25px;
+  padding: 5%;
+  width: 50%;
+  text-align: center;
+}
+.formulaire
+{
+    margin: 0 auto;
+    text-align: left;
+    padding: 2%;
+}
+#content
+{
+  text-align: center;
+}
+table
+{
+  margin: 0 auto;
+}
+#cadrebouton
+{
+    float:right;
+}
+#loader
+{
+  display: none;
+}
